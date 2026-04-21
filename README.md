@@ -1,6 +1,8 @@
 # Vending Machine
 This program serves the customer a silog meal with the option to add as many add-ons as they like in one serving.
 
+Originally finished in 11/23/2024
+
 ### Features
 - Silog Vending Feature
   - Inserting Currency Denominations
