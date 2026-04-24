@@ -30,4 +30,4 @@ gcc Main.c -o Main.exe
 Run `Main.exe` file
 
 ## Acknowledgments
-* [RabaDabaDoba](https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a) for ANSI-color-codes.h
+* [RabaDabaDoba](https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a) for [ANSI-color-codes.h](https://gist.github.com/RabaDabaDoba/145049536f815903c79944599c6f952a)
